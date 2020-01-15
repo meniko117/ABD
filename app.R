@@ -1,3 +1,7 @@
+#
+# перед запуском приложения необходимо построить граф, для этого зпуситть скрипт ABD.R
+#
+
 library(shiny)
 library("visNetwork")
 library(timevis)
